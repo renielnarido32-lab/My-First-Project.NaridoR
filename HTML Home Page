@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Home page for Web Systems and Technology team portfolio project.">
+  <title>Home - Team Web Portfolio</title>
+</head>
+<body>
+
+  <header>
+    <h1>Web Systems & Technology Team Project</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="schedule.html">Schedule</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Welcome to Our Web Systems & Technology Project</h1>
+    <h2>Building Semantic & Accessible HTML5 Web Applications</h2>
+    
+    <p>This website serves as our collaborative laboratory submission for Web Systems and Technology. Our goal is to demonstrate well-structured HTML5 code, seamless multi-page navigation, accessible form elements, and effective Git/GitHub team collaboration.</p>
+
+    <h2>Explore Our Website Pages</h2>
+    <ul>
+      <li><strong>About Us:</strong> Learn more about our team members, roles, and developer profiles.</li>
+      <li><strong>Schedule:</strong> View our academic and project timelines structured in interactive tables.</li>
+      <li><strong>Projects:</strong> Discover our project milestones and key development updates.</li>
+      <li><strong>Contact Us:</strong> Get in touch with our team using our interactive feedback form.</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 BSIT Web Systems & Technology Team. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
